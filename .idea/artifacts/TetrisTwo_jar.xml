@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TetrisTwo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TetrisTwo_jar</output-path>
+    <root id="archive" name="TetrisTwo.jar">
+      <element id="module-output" name="TetrisTwo" />
+    </root>
+  </artifact>
+</component>
